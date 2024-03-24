@@ -15,30 +15,31 @@ Flutter Starter Kit includes:
 
 ## Project Structure
 
-flutter_starter_kit/
-|-- android/
-|-- build/
-|-- ios/
-|-- lib/
-|   |-- animations/
-|   |   |-- startup_animation.riv
-|   |-- models/
-|   |-- screens/
-|   |   |-- auth/
-|   |   |   |-- forgot_password_screen.dart
-|   |   |   |-- login_screen.dart
-|   |   |   |-- signup_screen.dart
-|   |   |-- home/
-|   |   |   |-- home_screen.dart
-|   |-- services/
-|   |   |-- authentication_service.dart
-|   |-- utils/
-|   |   |-- constants.dart
-|   |-- widgets/
-|   |   |-- tutorial_widget.dart
-|-- test/
-|-- pubspec.yaml
-|-- README.md
+* flutter_starter_kit/
+* |-- android/
+* |-- build/
+* |-- ios/
+* |-- lib/
+* |   |-- animations/
+* |   |   |-- startup_animation.riv
+* |   |-- models/
+* |   |-- screens/
+* |   |   |-- auth/
+* |   |   |   |-- forgot_password_screen.dart
+* |   |   |   |-- login_screen.dart
+* |   |   |   |-- signup_screen.dart
+* |   |   |-- home/
+* |   |   |   |-- home_screen.dart
+* |   |-- services/
+* |   |   |-- authentication_service.dart
+* |   |-- utils/
+* |   |   |-- constants.dart
+* |   |-- widgets/
+* |   |   |-- tutorial_widget.dart
+* |-- test/
+* |-- pubspec.yaml
+* |-- README.md
+
 
 ## Getting Started
 
